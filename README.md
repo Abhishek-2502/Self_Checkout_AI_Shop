@@ -2,6 +2,14 @@
 
 Welcome to the Self Checkout AI Shop! This project is an AI-powered self-checkout system that lets users take a photo of themselves with a product. The AI model identifies the product and adds it to the cart with the price and quantity. The application is built with Flask (backend), React (frontend), and is containerized with Docker.
 
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [Author](#author)
+
 ## Features
 
 - **AI Product Identification**: Identifies products from images taken by users.
@@ -48,6 +56,6 @@ Follow these steps to build and run the application using Docker:
 
 Contributions, bug reports, and feature requests are welcome! Please open an issue or submit a pull request.
 
-## Author 
+## Author
 
 Abhishek Rajput
